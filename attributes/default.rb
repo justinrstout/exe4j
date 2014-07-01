@@ -1,0 +1,1 @@
+default['exe4j']['license'] = ''
